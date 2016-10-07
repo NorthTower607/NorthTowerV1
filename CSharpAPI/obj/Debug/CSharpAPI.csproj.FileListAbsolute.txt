@@ -1,0 +1,10 @@
+C:\NorthTower\InteractiveBrokers\NorthTowerV1\CSharpAPI\bin\Debug\CSharpAPI.dll
+C:\NorthTower\InteractiveBrokers\NorthTowerV1\CSharpAPI\bin\Debug\CSharpAPI.pdb
+C:\NorthTower\InteractiveBrokers\NorthTowerV1\CSharpAPI\obj\Debug\CSharpAPI.csprojResolveAssemblyReference.cache
+C:\NorthTower\InteractiveBrokers\NorthTowerV1\CSharpAPI\obj\Debug\CSharpAPI.dll
+C:\NorthTower\InteractiveBrokers\NorthTowerV1\CSharpAPI\obj\Debug\CSharpAPI.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NorthTowerV1\CSharpAPI\bin\Debug\CSharpAPI.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NorthTowerV1\CSharpAPI\bin\Debug\CSharpAPI.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NorthTowerV1\CSharpAPI\obj\Debug\CSharpAPI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NorthTowerV1\CSharpAPI\obj\Debug\CSharpAPI.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\NorthTowerV1\CSharpAPI\obj\Debug\CSharpAPI.pdb
